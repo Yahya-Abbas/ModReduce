@@ -1,0 +1,10 @@
+__pycache__*
+checkpoints*
+data/*
+dataset/__pycache__*
+logs*
+models*
+plots*
+student_models*
+models/__pycache__/*
+models/*.pth
